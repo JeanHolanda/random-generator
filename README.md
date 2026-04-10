@@ -1,78 +1,72 @@
 # 🎲 Random Number Generator
 
-## 🇺🇸 About the project
+A simple and interactive random number generator focused on JavaScript logic, user input and validation.
 
-A simple random number generator built to practice JavaScript fundamentals in real scenarios, such as:
-
-* DOM manipulation  
-* Event handling  
-* Conditional logic  
-* Random number generation with `Math.random()`  
-
-The project allows users to define a minimum and maximum value, generating a random number within that range.
+🔗 **Live Demo:** https://jeanholanda.github.io/random-generator/
 
 ---
 
-## 🇧🇷 Sobre o projeto
+## About the project
 
-Um gerador de números aleatórios simples desenvolvido para praticar fundamentos de JavaScript em cenários reais, como:
+This project is a simple interface developed to generate random numbers based on user-defined input.
 
-* Manipulação do DOM  
-* Eventos  
-* Condicionais  
-* Geração de números aleatórios com `Math.random()`  
+It allows users to set minimum and maximum values, focusing on logic implementation, validation and interaction using JavaScript.
 
-O projeto permite ao usuário definir um valor mínimo e máximo, gerando um número aleatório dentro desse intervalo.
+---
+
+## Sobre o projeto
+
+Este projeto é uma interface simples desenvolvida para gerar números aleatórios com base nos dados inseridos pelo usuário.
+
+Ele permite definir valores mínimos e máximos, com foco em lógica, validação e interação utilizando JavaScript.
 
 ---
 
 ## 🎯 Purpose
 
-This project was created to strengthen my JavaScript fundamentals, especially working with logic, validation and user input.
+The main goal of this project is to improve my JavaScript skills, especially:
+
+- Working with logic and conditionals  
+- Handling user input  
+- Implementing input validation  
 
 ---
 
 ## 🚀 Technologies
 
-* HTML5  
-* CSS3  
-* JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
 
 ---
 
-## 🎯 Features
+## ✨ Features
 
-* 🎲 Generate random numbers within a defined range  
-* 📥 User input for minimum and maximum values  
-* ⚠️ Input validation (min must be less than max)  
-* 🔔 Display result using alert  
+- 🎲 Generating random numbers within a defined range  
+- 📥 Receiving user input for minimum and maximum values  
+- ⚠️ Validating input (minimum must be less than maximum)  
+- 🔔 Displaying results dynamically  
 
 ---
 
 ## 💡 What I learned
 
-* How to use `Math.random()` for number generation  
-* How to handle and validate user input  
-* How to work with numeric conversions (`Math.floor`, `Math.ceil`)  
-* How to control logic flow with conditionals  
-* How to trigger actions with events  
+- Using `Math.random()` for number generation  
+- Handling and validating user input  
+- Working with numeric conversions (`Math.floor`, `Math.ceil`)  
+- Controlling logic flow with conditionals  
+- Triggering actions with events  
 
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeanHolanda/random-generator/e7cfca0cc01542a149fc32daf1b19e44fc313b73/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post%20Random%20Generator.png" width="700">
+  <img src="https://raw.githubusercontent.com/JeanHolanda/random-generator/e7cfca0cc01542a149fc32daf1b19e44fc313b73/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post%20Random%20Generator.png" width="650">
 </p>
-
----
-
-## 🔗 Live Demo
-
-👉 https://jeanholanda.github.io/random-generator/
 
 ---
 
 ## 🧑‍💻 Author
 
-Jean Holanda 🚀
+Developed by Jean Holanda 🚀
